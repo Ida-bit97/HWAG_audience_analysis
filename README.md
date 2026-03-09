@@ -10,7 +10,7 @@ This project needs nothing to be run, talking about any dependencies or prerequi
 I don't think you can use it other way than just having a look at it :)
 Analysis consists of two parts (exploratory part was conducted in .xlsx file; cause-and-effect relationship was explored in .ipynb file)
 - *"HWAG_survey_analysis" is a file with a Python code for cause-and-effect analysis (using [Logistic regression model](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html))
-- *"Survey_hwag" contains raw data from google form (tab "Form Responses 1"); data extracted for exploratory analysis (tab "base"); pivot tables and graphs (tab "dashboard") and preliminary conclusions of exploratory analysis (tab "conclusions")
+- *"Survey_hwag" contains raw data from google form (tab "Form Responses 1"); data extracted for exploratory analysis (tab "base"); pivot tables and graphs (tab "dashboard").
 - *"Transformed_hwag_python" can be handy in case you'd like to check how the Logistic regression model works avoiding preprocessing part.
 - *"Hwag_part1" is a pdf with Canva designed presentation of results.
 
